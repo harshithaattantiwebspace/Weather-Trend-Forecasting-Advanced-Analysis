@@ -13,9 +13,8 @@ This project aligns with the **PM Accelerator mission** by demonstrating how dat
 ---
 
 ## 🧭 PM Accelerator Mission  
-> “By making industry-leading tools and education available to individuals from all backgrounds, we level the playing field for future PM leaders. This is the PM Accelerator motto, as we grant aspiring and experienced PMs what they need most – Access. We introduce you to industry leaders, surround you with the right PM ecosystem, and discover the new world of AI product management skills.”  
->  
-> PM Accelerator is committed to empowering aspiring and experienced Product Managers through quality education, real-world opportunities, and a supportive community. In line with this mission, we also extend our support to disadvantaged youths through PMA Kids – fostering the next generation of leaders and innovators.
+ “By making industry-leading tools and education available to individuals from all backgrounds, we level the playing field for future PM leaders. This is the PM Accelerator motto, as we grant aspiring and experienced PMs what they need most – Access. We introduce you to industry leaders, surround you with the right PM ecosystem, and discover the new world of AI product management skills.”  
+PM Accelerator is committed to empowering aspiring and experienced Product Managers through quality education, real-world opportunities, and a supportive community. In line with this mission, we also extend our support to disadvantaged youths through PMA Kids – fostering the next generation of leaders and innovators.
 
 ---
 
